@@ -1,2 +1,2 @@
-# PlantDiseaseClassification_AICTE_INTERSNSHIP-Week-1
+# PlantDiseaseClassification_AICTE_INTERSNSHIP
 Training on Plant Disease Classification for AICTE Internship
